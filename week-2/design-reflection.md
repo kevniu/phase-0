@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 ![Site Map](/week-2/imgs/site-map.jpg)
-=======
-![Site Map](/week2/imgs/site-map.png)
->>>>>>> f85b655b1cf6f1d85f4a4fd3f2c3d7e49bc360a1
 
 What are the 6 Phases of Web Design?
-The 6 phases include information gathering, planning, design, development, testing/delivery, and maintenance.
+The 6 phases of web design include information gathering, planning, design, development, testing/delivery, and maintenance.
 
 What is your site's primary goal or purpose? What kind of content will your site feature?
 The site's primary goal would be to provide information about me, most likely to potential employers. As of now the content will be pretty basic, with information regarding some info about me and links to my social networks and my blog. I would later like to add on projects that we will building at DBC to show as a portfolio to potential employers along with a list of skills as we learn more technologies/languages.
