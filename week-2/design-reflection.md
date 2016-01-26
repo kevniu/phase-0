@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ![Site Map](/week-2/imgs/site-map.jpg)
+=======
+![Site Map](/week2/imgs/site-map.png)
+>>>>>>> f85b655b1cf6f1d85f4a4fd3f2c3d7e49bc360a1
 
 What are the 6 Phases of Web Design?
 The 6 phases include information gathering, planning, design, development, testing/delivery, and maintenance.
