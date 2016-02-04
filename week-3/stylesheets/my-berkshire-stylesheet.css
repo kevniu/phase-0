@@ -1,0 +1,91 @@
+body {
+  color: #000080;
+  background-color: #ffffff;
+  font-size: 12px;
+  display: block;
+}
+
+a:link {
+  color: #800080;
+  font-size: 16px;
+}
+
+a:visited {
+   color: #ff0000;
+}
+
+h3 {
+  font-family: bold;
+  font-size: 18px;
+  text-align: center;
+}
+
+h2 {
+  font-family: bold;
+  font-size: 16px;
+  text-align: center;
+}
+
+#larger {
+  font-size: 30px;
+}
+
+#medium {
+  font-size: 16px;
+}
+
+#smaller {
+  font-size: 12px;
+}
+
+section {
+  text-align: center;
+  font-size: 11x;
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
+
+#text-size {
+  font-size: 11px;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.hline {
+  width:100%;
+  height:1px;
+  background-color:black;
+}
+
+.columns {
+    -moz-column-count: 2; /* Firefox */
+    -moz-column-gap: 20px; /* Firefox */
+    -webkit-column-count: 2; /* Chorme, Safari */
+    -webkit-column-gap: 20px; /*Chrome, Safari*/
+    column-count: 2;
+    column-gap: 20px;
+    margin-top: 20px;
+    margin-right: 5%;
+    margin-bottom: 50px;
+    margin-left: 5%;
+}
+
+li {
+  margin: 24px;
+}
+
+/*
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+Make sure you have the correct path to link to your file. Also required is the relationship (rel) between the current document and the linked document as well as the type which specifies the media type of the linked document.
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+What CSS did you use to modify the element style (like size, color, etc.). This challenge was rather difficult for me as I had to look up the syntax for pretty much every process. To organize positioning I employed the use of margins as well as column-count and column-gap. The syntax for columns was particularly tricky as different browsers had different syntax.
+
+Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+I used a couple different classes for creating the horizontal lines and the columns and used idsfor adjusting certain portions of sections of inline text that I wanted formatted differently.
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+I thought my code was cleaner as the actual site used predominately inline html to format all of their text which is a rather inefficient method.
+*/
