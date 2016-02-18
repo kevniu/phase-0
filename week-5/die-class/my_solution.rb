@@ -10,8 +10,8 @@
 # Output: Sides instance should return number of sides, roll instance should return a random number between 1 and number of sides
 # Steps:
 # Set input to instance variable
-# Call instance variable that
-# Call
+# Call instance variable that represents the input for sides instance method
+# Use rand instance method and pass instance variable number as argument
 
 # 1. Initial Solution
 
