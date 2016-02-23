@@ -39,8 +39,8 @@ class Greetings
 
 end
 
-greet = Greetings.new
-greet.hello
+greeting = Greetings.new
+greeting.hello
 
 # Reflection
 =begin
