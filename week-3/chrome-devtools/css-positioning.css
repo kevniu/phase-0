@@ -2,54 +2,18 @@
 You can add them using a name (for common names), Hex, or RGB values.
 */
 
-body {
-  background-color: gray;
+.box {
+   display: inline-block;
+   background: red;
+   width: 100px;
+   height: 100px;
+   float: left;
+   margin: 20px;
+   color: white;
 }
 
-#div-1 {
-  border: 1px solid black;
-  background-color: yellow;
-  position: relative;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  top: 200px;
-  width: 98px;
-  height: 98px;
-  text-align: center;
-}
-#div-2 {
-  border: 1px solid white;
-  color: white;
-  background-color: black;
-  position: relative;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 98px;
-  height: 98px;
-  top: 200px;
-  right: 100px;
-}
-#div-3 {
-  border: 1px solid black;
-  background-color: white;
-  position: relative;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 98px;
-  height: 98px;
-  top: 100px;
-  left: 100px;
-}
-#div-4 {
-  border: 1px solid black;
-  background-color: red;
-  margin-left: auto;
-  margin-right: auto;
-  position: relative;
-  width: 98px;
-  height: 98px;
-  top: 100px;
+#two {
+   position: absolute;
+   top: 20px;
+   left: 20px;
 }
